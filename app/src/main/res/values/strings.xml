@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="news_feed">News Feed</string>
+    <string name="home">Home</string>
+    <string name="sports">Sports</string>
+    <string name="health">Health</string>
+    <string name="science">Science</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="technology">Technology</string>
+    <string name="main_content_here">Main Content Here</string>
+    <string name="main_heading_display_here_main_heading_display_here_main_heading_display_here_main_heading_display_here">Main Heading Display Here, Main Heading Display Here, Main Heading Display Here,Main Heading Display Here</string>
+    <string name="specific_news">Specific News</string>
+    <string name="sahil_khambe">- Sahil Khambe</string>
+</resources>
